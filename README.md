@@ -2,7 +2,7 @@
 A modern, responsive portfolio website showcasing my web development projects and skills. Built with clean HTML, CSS.
 Show Image
 🚀 Live Demo
-View Live Website →
+View Live Website → https://dipchy409.github.io/Portfolio-dip.dev/
 
 📖 About
 This is my personal portfolio website where I showcase my web development journey, skills, and projects. The website is designed to be fully responsive, accessible, and optimized for all devices.
@@ -197,7 +197,7 @@ Give credit if you use significant portions
 👤 Author
 Dip Chowdhury
 
-🌐 Portfolio: dipchy409.github.io/portfolio
+🌐 Portfolio: https://dipchy409.github.io/Portfolio-dip.dev/
 💼 GitHub: @DipChy409
 📧 Email: dipcdy6709@gmail.com
 
