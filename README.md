@@ -1,12 +1,18 @@
-🌐 Personal Portfolio Website
-A modern, responsive portfolio website showcasing my web development projects and skills. Built with clean HTML, CSS.
-Show Image
-🚀 Live Demo
-View Live Website → https://dipchy409.github.io/Portfolio-dip.dev/
+🌐 Personal Portfolio Website <br>
+A modern, responsive portfolio website showcasing my web development projects and skills. Built with clean HTML, CSS. <br>
+
+<div align="center">
+⭐ Star this repository if you found it helpful!
+Built with ❤️ using HTML, CSS & JavaScript
+</div>
+Contact:dipcdy6709@gmail.com
+<br>
+🚀 Live Demo <br>
+View Live Website → https://dipchy409.github.io/Portfolio-dip.dev/  <br>
 
 📖 About
 This is my personal portfolio website where I showcase my web development journey, skills, and projects. The website is designed to be fully responsive, accessible, and optimized for all devices.
-Purpose: To present my work to potential employers, clients, and collaborators while demonstrating my front-end development capabilities.
+Purpose: To present my work to potential employers, clients, and collaborators while demonstrating my front-end development capabilities. <br>
 
 ✨ Features
 🎨 Modern Design - Clean and professional UI/UX
@@ -18,20 +24,20 @@ Purpose: To present my work to potential employers, clients, and collaborators w
 ♿ Accessible - Semantic HTML and ARIA labels
 🌙 Sticky Navigation - Easy access to all sections
 
-
+<br>
 🛠️ Technologies Used
 Core Technologies
-
+<br>
 HTML5 - Semantic markup structure
 CSS3 - Modern styling and animations
-
+<br>
 Libraries & Tools
 
 Font Awesome - Icons
 Google Fonts (Poppins) - Typography
 EmailJS - Contact form functionality
 Git & GitHub - Version control and hosting
-
+<br>
 Design Features
 
 CSS Grid & Flexbox for layouts
@@ -39,7 +45,7 @@ CSS Custom Properties (Variables)
 Media Queries for responsiveness
 CSS Animations and Transitions
 
-
+<br>
 📑 Sections
 1. Navigation Bar
 
@@ -77,7 +83,7 @@ Links to live projects
 Copyright information
 Built with love message
 
-
+<br>
 💻 Installation
 Prerequisites
 
@@ -95,7 +101,7 @@ Modify the files as needed:
 index.html - Structure and content
 style.css - Styling and design
 Add your images to images/ folder
-
+<br>
 
 Test responsiveness using browser DevTools
 
@@ -146,7 +152,7 @@ Building this portfolio helped me learn:
 ✅ Web accessibility standards
 ✅ Performance optimization
 
-
+<br>
 🚀 Future Enhancements
 Planned improvements:
 
@@ -158,7 +164,7 @@ Planned improvements:
  Integrate Google Analytics
  Add more interactive elements
  Create multi-language support
-
+<br>
 
 📄 File Structure
 portfolio/
@@ -174,7 +180,7 @@ portfolio/
     ├── css-logo.webp
     ├── javascript-logo.webp
     └── 5013256.jpg    # Project image
-
+<br>
 🤝 Contributing
 While this is a personal portfolio, suggestions and feedback are welcome!
 
@@ -184,7 +190,7 @@ Commit changes (git commit -m 'Add improvement')
 Push to branch (git push origin feature/improvement)
 Open a Pull Request
 
-
+<br>
 📝 License
 This project is open source and available under the MIT License.
 Feel free to use this code for your own portfolio, but please:
@@ -192,38 +198,32 @@ Feel free to use this code for your own portfolio, but please:
 Remove my personal information
 Add your own content
 Give credit if you use significant portions
-
+<br>
 
 👤 Author
 Dip Chowdhury
-
+<br>
 🌐 Portfolio: https://dipchy409.github.io/Portfolio-dip.dev/
 💼 GitHub: @DipChy409
 📧 Email: dipcdy6709@gmail.com
 
-
+<br>
 🙏 Acknowledgments
 
 Font Awesome for icons
 Google Fonts for Poppins font family
 EmailJS for contact form functionality
 Inspiration from various developer portfolios
-
+<br>
 
 📊 Project Stats
 Show Image
 Show Image
 Show Image
-
+<br>
 💬 Feedback
 If you have any feedback or suggestions, please feel free to reach out via:
-
+<br>
 Opening an issue on GitHub
 Sending an email to dipcdy6709@gmail.com
 Connecting on LinkedIn
-
-
-<div align="center">
-⭐ Star this repository if you found it helpful!
-Built with ❤️ using HTML, CSS & JavaScript
-</div>
